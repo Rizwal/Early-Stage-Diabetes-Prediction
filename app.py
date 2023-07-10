@@ -31,8 +31,12 @@ def prediction(age,gender,polyuria,polydipsia,sudden_weight_loss,weakness,polyph
 
 st.title("Early Diabetese Prediction")
 name=st.text_input("Enter your name:")
-age=st.number_input("Enter your Age:")
-gender=st.selectbox("Select Gender (1 for Male ,0 for Female)",data['Gender'].unique())
+age=st.slider("Enter your Age:",min_value=10,max_value=100)
+gender=st.selectbox("Select Gender",options=['Male','Female'])
+if(gender=='Male'):
+    gender=1
+else:
+    gender=0
 
 html_temp = """
 <div style="background-color:blue;padding:2px">
