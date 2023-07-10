@@ -37,6 +37,8 @@ sklearn
 ![image](https://github.com/Rizwal/Early-Stage-Diabetes-Prediction/assets/87907843/67301f59-fe78-4eca-86cc-b8fb26e49ad4)
 ![image](https://github.com/Rizwal/Early-Stage-Diabetes-Prediction/assets/87907843/b4c9ca72-7f1f-4c30-996e-9d3000b6434a)
 ![image](https://github.com/Rizwal/Early-Stage-Diabetes-Prediction/assets/87907843/45400b20-df11-490f-9964-73be71c8d536)
+![image](https://github.com/Rizwal/Early-Stage-Diabetes-Prediction/assets/87907843/9c3eba2e-8ea6-4f63-a404-c05d227e550a)
+
 By hyperparameter and cross validation, We got to know that XGBoost and Random Forest gives the best prediction result with accuracy of approx. 99% and error nearly close to 0.
 # Creating a web app using streamlit
 ![image](https://github.com/Rizwal/Early-Stage-Diabetes-Prediction/assets/87907843/c3c09d57-4f92-4e79-809d-fe805483fe84)
