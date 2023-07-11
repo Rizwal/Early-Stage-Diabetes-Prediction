@@ -45,6 +45,8 @@ By hyperparameter and cross validation, We got to know that XGBoost gives the be
 # Web app
 ![image](https://github.com/Rizwal/Early-Stage-Diabetes-Prediction/assets/87907843/b18f2b4f-4745-40f5-9f19-99be5072a4bf)
 ![image](https://github.com/Rizwal/Early-Stage-Diabetes-Prediction/assets/87907843/31c0bd20-661d-4c34-bea9-dc87438441f0)
+## Check out web app:
+https://early-stage-diabetes-prediction.streamlit.app/
 
 
 
