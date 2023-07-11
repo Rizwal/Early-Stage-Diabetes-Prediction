@@ -43,7 +43,7 @@ By hyperparameter and cross validation, We got to know that XGBoost gives the be
 # Creating a web app using streamlit
 ![image](https://github.com/Rizwal/Early-Stage-Diabetes-Prediction/assets/87907843/c3c09d57-4f92-4e79-809d-fe805483fe84)
 # Web app
-![image](https://github.com/Rizwal/Early-Stage-Diabetes-Prediction/assets/87907843/b18f2b4f-4745-40f5-9f19-99be5072a4bf)
+![image](https://github.com/Rizwal/Early-Stage-Diabetes-Prediction/assets/87907843/14b776d6-4060-43ef-bb08-bd2dbdc8d92c)
 ![image](https://github.com/Rizwal/Early-Stage-Diabetes-Prediction/assets/87907843/31c0bd20-661d-4c34-bea9-dc87438441f0)
 ## Check out web app:
 https://early-stage-diabetes-prediction.streamlit.app/
