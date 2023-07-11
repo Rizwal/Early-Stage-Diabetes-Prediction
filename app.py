@@ -29,7 +29,7 @@ def prediction(age,gender,polyuria,polydipsia,sudden_weight_loss,weakness,polyph
     print(pred)
     return pred
 
-st.title("Early Diabetese Prediction")
+st.title("Early Diabetes Prediction")
 name=st.text_input("Enter your name:")
 age=st.slider("Enter your Age:",min_value=10,max_value=100)
 gender=st.selectbox("Select Gender",options=['Male','Female'])
